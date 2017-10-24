@@ -9,8 +9,13 @@ RUN apt-get update && \
     apt-get clean
 
 COPY . ${HOME}
+
 USER root
 RUN chown -R ${NB_UID} ${HOME}
+
 USER ${NB_USER}
+
+ENV BOOSTLIB /usr/local/lib
+ENV BOOSTROOT /usr/include/boost
 
 RUN make hector
