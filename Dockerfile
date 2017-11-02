@@ -1,4 +1,4 @@
-FROM jupyter/scipy-notebook:281505737f8a
+FROM jupyter/r-notebook:da2c5a4d00fa
 
 MAINTAINER Robert Gieseke <robert.gieseke@pik-potsdam.de>
 
