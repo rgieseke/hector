@@ -11,6 +11,7 @@ articles:
   ContributionsGuide: ContributionsGuide.html
   ExternalAPI: ExternalAPI.html
   Hector-Wider-World: Hector-Wider-World.html
+  HectorResources: HectorResources.html
   HectorSummary: HectorSummary.html
   InputFiles: InputFiles.html
   Permafrost: Permafrost.html
@@ -33,7 +34,7 @@ articles:
   units: units.html
   v3_output_changes: v3_output_changes.html
   hector: hector.html
-last_built: 2023-07-01T10:44Z
+last_built: 2023-12-27T11:16Z
 urls:
   reference: https://jgcri.github.io/hector/reference
   article: https://jgcri.github.io/hector/articles
